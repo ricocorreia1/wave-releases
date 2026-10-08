@@ -3,6 +3,6 @@
     <version>1.0.4.5</version>
     <versioncode>260</versioncode>
     <updateurl>https://github.com/ricocorreia1/wave-releases/releases/download/v1.0.4.5/Wave_Lite.apk</updateurl>
-    <sha256>a3b2e57b12f0ef2fcb5407638f9aeec33aac8545f9ca052a25e66a01c5f4048</sha256>
+    <sha256>a3b2e57b12f0ef2fcb5407638f9aeec33aac8545f9ca052a25e66a01c5f4048b</sha256>
     <description>Notificação permanente volta em segundos quando o app é fechado; início com o Android respeita a configuração.</description>
 </update>
